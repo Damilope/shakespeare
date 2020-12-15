@@ -1,1 +1,1 @@
-web: yarn build && go run main.go
+web: bin/shakesearch
