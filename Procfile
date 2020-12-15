@@ -1,1 +1,1 @@
-web: main
+web: yarn build && go run main.go
