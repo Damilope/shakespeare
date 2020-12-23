@@ -1,1 +1,1 @@
-web: bin/shakesearch
+web: node index.js
